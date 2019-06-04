@@ -7,7 +7,7 @@ A boilerplate to start with Spring Boot Security JWT Authentication
 use maven to build project
 
 ```bash
-maven install
+mvn install
 ```
 
 ## Run Project using maven
